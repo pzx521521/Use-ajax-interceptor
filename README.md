@@ -1,5 +1,7 @@
 # Use-ajax-interceptor
 # How to Use ajax-interceptor
+# 2019.4.18 通过拦截post在apk上实现以上原理(虽然没办法全屏)
+
 # 背景简介
 + 随着Web应用/网页的不断增加, 随着[restful](https://www.runoob.com/w3cnote/restful-architecture.html)的发展, springboot的实现简单, 以及不注意加密等等因素影响,客户端越来越容易模拟数据
 # 举例:
